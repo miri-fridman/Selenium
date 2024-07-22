@@ -1,0 +1,206 @@
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.AssemblyReference.cache
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.AssemblyInfoInputs.cache
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.AssemblyInfo.cs
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.CoreCompileInputs.cache
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testhost.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testhost.exe
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.api.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.core.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.deps.json
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.runtimeconfig.json
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.pdb
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.framework.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\WebDriver.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.CopyComplete
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\refint\SeleniumNUnitExample.dll
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.pdb
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.genruntimeconfig.cache
+C:\תכנות-מירי\שנה ב\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\ref\SeleniumNUnitExample.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testhost.exe
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testhost.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.api.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.engine.core.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.deps.json
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.runtimeconfig.json
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\SeleniumNUnitExample.pdb
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\nunit.framework.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\WebDriver.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.AssemblyReference.cache
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.AssemblyInfoInputs.cache
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.AssemblyInfo.cs
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.CoreCompileInputs.cache
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.csproj.CopyComplete
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\refint\SeleniumNUnitExample.dll
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.pdb
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\SeleniumNUnitExample.genruntimeconfig.cache
+C:\תכנות-מירי\Selenium\SeleniumNUnitExample\SeleniumNUnitExample\obj\Debug\net6.0\ref\SeleniumNUnitExample.dll
